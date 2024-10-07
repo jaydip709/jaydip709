@@ -5,6 +5,7 @@
 
 Skills
 Frontend: React.js , Html5 ,Css3 ,TypeScript, JavaScript 
+
 Backend: ASP.NET
 
 
