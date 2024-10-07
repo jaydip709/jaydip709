@@ -9,7 +9,7 @@ Backend: ASP.NET
 
 
 Contact
-📧 Email: pateljaydippj699@gmail.com 🔗 LinkedIn: [www.linkedin.com/in/krupal-vaishnav]
+📧 Email: pateljaydippj699@gmail.com 
 
 Feel free to reach out! I'm open to collaboration and always looking to learn and grow.
 
