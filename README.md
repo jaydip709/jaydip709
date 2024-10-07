@@ -1,16 +1,16 @@
-## Hi there 👋
+## Hi there, I'm Jaydip Patel 👋
+-I'm a fresher React.js and ASP.NET developer based in Gandhinagar, Gujarat.
 
-<!--
-**jaydip709/jaydip709** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Currently, I'm passionate about building web applications and exploring new technologies.
 
-Here are some ideas to get you started:
+Skills
+Frontend: React.js , Html5 ,Css3 ,TypeScript, JavaScript 
+Backend: ASP.NET
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+Contact
+📧 Email: pateljaydippj699@gmail.com 🔗 LinkedIn: [www.linkedin.com/in/krupal-vaishnav]
+
+Feel free to reach out! I'm open to collaboration and always looking to learn and grow.
+
+
